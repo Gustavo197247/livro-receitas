@@ -1,2 +1,2 @@
-# livro-receitas
-Meu livro de receitas
+# livro-receitas 🧑‍🍳
+Meu livro de receitas 🥓
